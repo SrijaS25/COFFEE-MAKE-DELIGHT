@@ -73,9 +73,9 @@ height: 500px;
 }
 .s5-para-div{
     width: 270px;
-    text-align: start;
+    text-align: center;
     /* border: 1px solid; */
-    margin-left: -80px;
+/*     margin-left: -80px; */
 }
 .s5-but{
     margin-left: -5px;
